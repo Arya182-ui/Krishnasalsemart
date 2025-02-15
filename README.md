@@ -2,13 +2,27 @@
 
 This project is a clone of the [Krishna Sales Mart](https://krishnasalesmart.com/) website. It is built using React and Vite, showcasing a variety of products and features similar to the original site.
 
+## Before Using
+
+You can see my work:
+### Desktop
+<img src="images/mywork1.png" alt="MINE" hight="200" width="600" />
+
+### Mobile 
+<img src="images/mywork2.png" alt="MINE" width="300" />
+
+## Oreginal 
+### Desktop
+<img src="images/mywork1.png" alt="MINE" hight="200" width="600" />
+
+### Mobile 
+<img src="images/Oregina2.png" alt="MINE" width="300" />
+
 ## Table of Contents
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Deployment](#deployment)
 - [Contributing](#contributing)
 - [License](#license)
 
