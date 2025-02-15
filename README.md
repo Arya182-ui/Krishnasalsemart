@@ -1,22 +1,32 @@
 # Krishna Sales Mart Clone
 
-This project is a clone of the [Krishna Sales Mart](https://krishnasalesmart.com/) website. It is built using React and Vite, showcasing a variety of products and features similar to the original site.
+This project is a clone of the [Krishna Sales Mart](https://krishnasalesmart.com/) website. It is built using **React** and **Vite**, showcasing a variety of products and features similar to the original site.
 
 ## Before Using
 
-You can see my work:
-### Desktop
-<img src="images/mywork1.png" alt="MINE" hight="200" width="600" />
+### My Work
 
-### Mobile 
-<img src="images/mywork2.png" alt="MINE" width="300" />
+#### Desktop
+<p align="center">
+   <img src="images/mywork1.png" alt="My Work - Desktop" height="200" width="600" />
+</p>
 
-## Oreginal 
-### Desktop
-<img src="images/mywork1.png" alt="MINE" hight="200" width="600" />
+#### Mobile
+<p align="center">
+   <img src="images/mywork2.png" alt="My Work - Mobile" width="300" />
+</p>
 
-### Mobile 
-<img src="images/Oregina2.png" alt="MINE" width="300" />
+### Original
+
+#### Desktop
+<p align="center">
+   <img src="images/Orginal1.png" alt="Original - Desktop" height="200" width="600" />
+</p>
+
+#### Mobile
+<p align="center">
+   <img src="images/Orginal2.png" alt="Original - Mobile" width="300" />
+</p>
 
 ## Table of Contents
 
@@ -25,15 +35,16 @@ You can see my work:
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
 
 ## Features
 
-- Responsive design for mobile and desktop views
-- Product listing with filtering options
-- Shopping cart functionality
-- Wishlist feature
-- Search functionality
-- Theme toggle (light/dark mode)
+- **Responsive design** for mobile and desktop views
+- **Product listing** with filtering options
+- **Shopping cart** functionality
+- **Wishlist** feature
+- **Search** functionality
+- **Theme toggle** (light/dark mode)
 
 ## Technologies Used
 
@@ -47,13 +58,13 @@ You can see my work:
 
 To get a local copy up and running, follow these steps:
 
-1. Clone the repository:
+### 1. Clone the repository
+
+Open your terminal and run the following commands to clone the project repository and navigate to the project folder:
 
 ```bash
-   git clone https://github.com/Arya182-ui/Krishnasalsemart.git
-
-
-   cd Krishnasalsemart
+git clone https://github.com/Arya182-ui/Krishnasalsemart.git
+cd Krishnasalsemart
 ```
 2. Install dependencies
 ```bash
@@ -91,4 +102,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## **Thank you for checking out this project! If you have any questions or feedback, feel free to reach out.**
 
 
+## Author
+ **Ayush Gangwar**
 
