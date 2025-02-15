@@ -99,9 +99,9 @@ git push origin feature/AmazingFeature)
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-## **Thank you for checking out this project! If you have any questions or feedback, feel free to reach out.**
-
-
 ## Author
  **Ayush Gangwar**
+
+
+### Thank you for checking out this project! If you have any questions or feedback, feel free to reach out.
 
